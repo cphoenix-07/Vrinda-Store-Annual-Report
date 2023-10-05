@@ -2,6 +2,8 @@
  Welcome to the Vrinda Store Annual Report Data Analysis GitHub repository! Here, you'll find comprehensive Excel spreadsheets and analytical tools to dissect and gain valuable insights from Vrinda Store's annual financial reports.
 
 
+![Screenshot 2023-10-05 170620](https://github.com/cphoenix-07/Vrinda-Store-Annual-Report/assets/71826054/e1e2163b-4939-4149-a398-6a05cfa1930a)
+
 # Vrinda Store Sales Improvement Analysis
 
 Welcome to the Vrinda Store Sales Improvement Analysis repository. Here, we present key insights and recommendations to boost sales based on our analysis of customer demographics and purchasing channels.
